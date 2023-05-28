@@ -8,3 +8,8 @@
  
  Todos níveis possui uma avaliação final, assim como um projeto final.
 
+🚀 Tecnologias
+
+📄 Bibliotecas: Pandas, Numpy, Seaborn, Matplotlib, Yellowbrick, Scikit Learn.
+⚡️ Jupyter Notebook.
+
