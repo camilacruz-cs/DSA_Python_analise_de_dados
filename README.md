@@ -10,6 +10,7 @@
 
 🚀 Tecnologias
 
-📄 Bibliotecas: Pandas, Numpy, Seaborn, Matplotlib, Yellowbrick, Scikit Learn.
+📄 Bibliotecas: Pandas, Numpy.
+
 ⚡️ Jupyter Notebook.
 
