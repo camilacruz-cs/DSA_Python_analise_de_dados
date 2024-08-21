@@ -13,4 +13,5 @@
 📄 Bibliotecas: Pandas, Numpy.
 
 ⚡️ Jupyter Notebook.
+⚡️ Google Colab.
 
